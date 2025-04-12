@@ -1,2 +1,2 @@
-# SHADXW
-A fully functional whatsapp bot 
+# SHADXW-XMD 
+ÅRÏSË THË SYSTËM ÃWÂÏTS'
