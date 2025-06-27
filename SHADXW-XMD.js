@@ -1,5 +1,5 @@
 const { default: makeWaSocket, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('baileys')
-const GITHUB_PAT = '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'
+const GITHUB_PAT = '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'
 const os = require('os')
 const fs = require('fs') 
 const fsx = require('fs-extra')
